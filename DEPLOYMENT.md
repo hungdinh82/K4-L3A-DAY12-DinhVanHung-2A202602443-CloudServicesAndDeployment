@@ -85,5 +85,5 @@ POST /ask không gửi X-API-Key -> HTTP/2 401
 
 Trước khi nộp bài, thêm ảnh trong thư mục `screenshots/`:
 
-- `screenshots/dashboard.png` — trang quản lý service trên platform
-- `screenshots/health.png` — kết quả gọi `/health` từ trình duyệt hoặc curl
+- `screenshots/dashboard.jpeg` — trang quản lý service trên platform
+- `screenshots/health.jpeg` — kết quả gọi `/health` từ trình duyệt hoặc curl
